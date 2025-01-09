@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #ffeed7;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ h1 {
 }
 
 p {
-    color: #666;
+    color: #000000;
     margin-bottom: 20px;
 }
 
@@ -39,7 +39,7 @@ p {
 
 .styled-button:hover {
     background-color: #218838;
-    transform: scale(1.05);
+    transform: scale(1.40);
 }
 
 .styled-button:active {
